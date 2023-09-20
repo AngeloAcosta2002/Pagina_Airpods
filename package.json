@@ -1,0 +1,14 @@
+{
+  "name": "clase20-09",
+  "version": "0.0.1",
+  "description": "Este es mi primer proyecto con mpm y tailwind",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
+  },
+  "author": "Angelo Acosta",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.3.3"
+  }
+}
